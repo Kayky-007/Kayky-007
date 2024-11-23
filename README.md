@@ -1,6 +1,6 @@
 ### Olá Mundo!👋 Aqui quem fala é o Kayky.
 #
- Atualmente Estudando: Python <img align="center" alt="Rafa-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+Atualmente Estudando: Python <img align="center" alt="Rafa-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 <div>
   <a href="https://github.com/Kayky-007">
@@ -19,9 +19,7 @@
   <img align="center" alt="Kayky-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Kayky-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Kayky-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-            
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake-dark.svg">
@@ -31,7 +29,4 @@
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kayky-007&repo=Kayky-007&theme=react)](https://github.com/Kayky-007/Kayky-007)
 
-
-
 ![Snake animation](https://github.com/Kayky-007/Kayky-007/blob/output/github-contribution-grid-snake.svg)
-
