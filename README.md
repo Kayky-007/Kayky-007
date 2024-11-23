@@ -21,12 +21,4 @@ Atualmente Estudando: Python <img align="center" alt="Rafa-Python" height="20" w
   <img align="center" alt="Kayky-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kayky-007&repo=Kayky-007&theme=react)](https://github.com/Kayky-007/Kayky-007)
-
 ![Snake animation](https://github.com/Kayky-007/Kayky-007/blob/output/github-contribution-grid-snake.svg)
