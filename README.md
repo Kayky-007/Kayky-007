@@ -29,7 +29,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake.svg">
 </picture>
 
-[[readme](https://github-readme-stats.vercel.app/api/pin/?username=your username&repo-your username&theme=react)](https://github.com/your username/your username)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kayky-007&repo=Kayky-007&theme=react)](https://github.com/Kayky-007/Kayky-007)
+
 
 
 ![Snake animation](https://github.com/Kayky-007/Kayky-007/blob/output/github-contribution-grid-snake.svg)
