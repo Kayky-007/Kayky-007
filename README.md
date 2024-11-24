@@ -1,6 +1,5 @@
 ### Olá Mundo!👋 Aqui quem fala é o Kayky.
-#### Atualmente Estudando: Python
-<img align="center" alt="Kayky-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+ Atualmente Estudando: Python<img align="center" alt="Kayky-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 ---
 
