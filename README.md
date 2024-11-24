@@ -2,7 +2,7 @@
  Atualmente Estudando: Python<img align="center" alt="Kayky-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 ---
-
+### 📈 Minhas Estatística
 <div>
   <a href="https://github.com/Kayky-007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayky-007&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -24,17 +24,6 @@
   <img align="center" alt="Kayky-Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Kayky-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
-
----
-
-### 📈 Minhas Estatísticas:
-<a href="https://github.com/Kayky-007">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kayky-007&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Kayky-007">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky-007&layout=compact&langs_count=16&theme=dark" />
-</a>
 
 ---
 
