@@ -1,8 +1,17 @@
 ### Olá Mundo!👋 Aqui quem fala é o Kayky.
- Atualmente Estudando: Python<img align="center" alt="Kayky-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
+<div class="row">
+  <div class="col">
+    <span>Atualmente Estudando: Python<img align="center" alt="Kayky-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></span>
+  </div>
+  <div class="col text-right">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" alt="GIF de exemplo" width="300">
+  </div>
+</div>
 
 ---
-### 📈 Minhas Estatística
+
+### 📈 Minhas Estatísticas
 <div>
   <a href="https://github.com/Kayky-007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayky-007&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -33,7 +42,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kayky-007/Kayky-007/output/github-contribution-grid-snake.svg">
 </picture>
-
-
 
 ---
