@@ -2,7 +2,7 @@
 
 <div class="row">
   <div class="col">
-    <span>Cursando: Análise e Desenvolvimento de Sistemas</span>
+    <span>Cursando: Engenharia de Software </span>
   </div>
   <div class="col text-right">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" alt="GIF de exemplo" width="300">
