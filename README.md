@@ -5,17 +5,6 @@
 
 </div>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║        MI6 CLASSIFIED DOSSIER — AGENT: KAYKY-007        ║
-║                  CLEARANCE: LEVEL 10                    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <br>
 
 <table align="center">
