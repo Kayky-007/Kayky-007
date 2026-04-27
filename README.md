@@ -1,58 +1,69 @@
 <div align="center">
 
 <!-- BANNER ANIMADO 007 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:c9a84c&height=200&section=header&text=KAYKY%20%7C%20007&fontSize=60&fontColor=c9a84c&fontAlignY=38&animation=fadeIn&desc=Licensed%20to%20Code&descAlignY=60&descSize=20&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:c9a84c&height=200&section=header&text=KAYKY%20COSTA&fontSize=60&fontColor=c9a84c&fontAlignY=38&animation=fadeIn&descAlignY=60&descSize=20&descColor=ffffff" />
 
 </div>
 
 <br>
 
-<td width="45%" align="center">
-  <a href="https://github.com/Kayky-007">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" width="240" style="border-radius: 12px;" />
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/kayky0bala">
-    <img src="https://img.shields.io/badge/LinkedIn-Kayky%20Bala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<table align="center">
+<tr>
+<td width="100%" align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" width="540" style="border-radius: 12px;" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kayky--007-000?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/Kayky-007)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayky0bala)
+
 </td>
+</tr>
+</table>
 
 ---
 
-## 🔫 Arsenal Tecnológico — Equipamentos do Agente
-
 <div align="center">
 
-### ⚙️ Desenvolvimento Web & Mobile
+## ⚙️ Stack Tecnológico
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🌐 Web & Mobile**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql&theme=dark" />
 
-### 🐍 Python — Arma de Destruição em Massa
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-**Especialidades em Python:**
-
-![Python](https://img.shields.io/badge/Automação-Scripts%20%26%20Bots-gold?style=flat-square&logo=python&logoColor=black&color=c9a84c&labelColor=1a1a2e)
-![Pandas](https://img.shields.io/badge/Análise%20de%20Dados-Pandas%20%7C%20NumPy-gold?style=flat-square&logo=pandas&logoColor=black&color=c9a84c&labelColor=1a1a2e)
-![Selenium](https://img.shields.io/badge/Web%20Scraping-Selenium%20%7C%20BeautifulSoup-gold?style=flat-square&logo=selenium&logoColor=black&color=c9a84c&labelColor=1a1a2e)
-![Matplotlib](https://img.shields.io/badge/Visualização-Matplotlib%20%7C%20Plotly-gold?style=flat-square&logo=plotly&logoColor=black&color=c9a84c&labelColor=1a1a2e)
-
-### 📱 Mobile
+<br>
 
 <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" />
 
-</div>
+</td>
+<td align="center" width="33%">
+
+**🐍 Python**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br>
+
+![Automação](https://img.shields.io/badge/Automação-Scripts%20%26%20Bots-gold?style=flat-square&logo=python&logoColor=black&color=c9a84c&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Análise%20de%20Dados-Pandas%20%7C%20NumPy-gold?style=flat-square&logo=pandas&logoColor=black&color=c9a84c&labelColor=1a1a2e)
+![Selenium](https://img.shields.io/badge/Web%20Scraping-Selenium%20%7C%20BeautifulSoup-gold?style=flat-square&logo=selenium&logoColor=black&color=c9a84c&labelColor=1a1a2e)
+![Matplotlib](https://img.shields.io/badge/Visualização-Streamlit%20%7C%20Plotly-gold?style=flat-square&logo=plotly&logoColor=black&color=c9a84c&labelColor=1a1a2e)
+
+</tr>
+</table>
 
 ---
 
-## 📊 Relatórios de Campo — Estatísticas
-
-<div align="center">
 
 <a href="https://github.com/Kayky-007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayky-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&bg_color=0d1117&border_color=c9a84c" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky-007&layout=compact&langs_count=16&theme=tokyonight&title_color=c9a84c&text_color=ffffff&bg_color=0d1117&border_color=c9a84c" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kayky-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&bg_color=0d1117&border_color=c9a84c" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayky-007&layout=compact&langs_count=16&theme=tokyonight&title_color=c9a84c&text_color=ffffff&bg_color=0d1117&border_color=c9a84c" />
 </a>
 
 <br><br>
@@ -62,10 +73,15 @@
 </a>
 
 </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=500&color=C9A84C&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=160&lines=%F0%9F%8E%93+Engenharia+de+Software+............+%5BEM+CURSO%5D;%F0%9F%8C%90+Full+Stack+Development+..............+%5BATIVO%5D;%F0%9F%90%8D+Python%3A+An%C3%A1lise+de+Dados+...........+%5BATIVO%5D;%F0%9F%A4%96+Python%3A+Automa%C3%A7%C3%A3o+%26+Scripts+......+%5BATIVO%5D;%F0%9F%93%B1+Flutter+%26+Dart+..................+%5BAPRENDENDO%5D;%F0%9F%94%90+Seguran%C3%A7a+%26+Boas+Pr%C3%A1ticas+........+%5BESTUDO%5D" />
+
+</div>
 
 ---
 
-## 🌍 Trilha de Missões — Contribuições no GitHub
+## 🌍 Contribuições no GitHub
 
 <div align="center">
 
@@ -79,44 +95,10 @@
 
 ---
 
-## 🎯 Missões Atuais
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    OPERAÇÕES ATIVAS                      │
-├─────────────────────────────────────────────────────────┤
-│  🎓  Engenharia de Software .............. [EM CURSO]   │
-│  🌐  Desenvolvimento Full Stack .......... [ATIVO]      │
-│  📊  Python: Análise de Dados ............ [ATIVO]      │
-│  🤖  Python: Automação & Scripts ......... [ATIVO]      │
-│  📱  Flutter & Dart ...................... [APRENDENDO] │
-│  🔐  Segurança & Boas Práticas ........... [ESTUDO]     │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🔗 Canais de Comunicação Seguros
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kayky--007-000?style=for-the-badge&logo=github&logoColor=c9a84c)](https://github.com/Kayky-007)
-
-<br>
-
-*"Sempre em movimento. Sempre à frente."*
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:1a1a2e,100:000000&height=120&section=footer&text=007&fontSize=40&fontColor=c9a84c&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:1a1a2e,100:000000&height=120&section=footer&fontSize=40&desc=Licensed%20to%20Code&fontColor=c9a84c&animation=fadeIn" />
 
 </div>
 
