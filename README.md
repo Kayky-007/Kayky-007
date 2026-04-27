@@ -7,36 +7,15 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="55%">
-
-### 🕵️ Identificação do Agente
-
-```yaml
-Codinome     : Kayky-007
-Status       : Ativo em campo
-Especialidade: Engenharia de Software
-Base         : Brasil 🇧🇷
-Missão       : Transformar código em arte
-Nível        : Em treinamento para o MI6
-Clearance    : ██████████ CONFIDENCIAL
-```
-
-> *"Shaken, not stirred — assim como meu código: elegante, direto e letal."*
-
-</td>
 <td width="45%" align="center">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" width="240" style="border-radius: 12px;" />
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kayky--007-gold?style=for-the-badge&logo=github&logoColor=black&color=c9a84c)](https://github.com/Kayky-007)
-
+  <a href="https://github.com/Kayky-007">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm81NDNoMTR0bzU2NGlpOWo0eWxjejRmdDZvMHN1YzNuOTR4ZTJjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yF0YkUfXAZxtDkAALp/giphy.webp" width="240" style="border-radius: 12px;" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/kayky0bala">
+    <img src="https://img.shields.io/badge/LinkedIn-Kayky%20Bala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </td>
-</tr>
-</table>
 
 ---
 
